@@ -41,6 +41,8 @@ int main(int argc, char *argv[])
 	//Return data
 	return 0;
 }
+//References:
+//system("pause");
 
 //Algorithm Setup			|			Corresponding C++ Statements
 //
