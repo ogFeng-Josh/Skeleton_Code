@@ -23,11 +23,11 @@
 #include<cctype>
 #include<cstdlib>
 
-//Function Declarations
-
-
 //Include Predefined Identifiers
 using namespace std;
+
+//Function Declarations
+
 
 int main(int argc, char *argv[])
 {
