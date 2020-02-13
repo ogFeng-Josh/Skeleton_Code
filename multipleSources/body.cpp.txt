@@ -1,0 +1,12 @@
+
+//Library Directories
+#include<iostream>
+#include<string>
+#include<cmath>
+#include<cstdio>
+#include<iomanip>
+#include<ctime>
+#include<cctype>
+#include<cstdlib>
+
+using namespace std;
