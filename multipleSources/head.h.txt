@@ -1,7 +1,7 @@
 #ifndef HEAD_H
 #define HEAD_H
 
-
+//TRY TO KEEP INCLUDE LIBRARIES IN HEADER UNLESS NEED IT DIRECTLY FOR SPECIFIC CPP FILES
 //Library Directories
 #include<iostream>
 #include<string>
