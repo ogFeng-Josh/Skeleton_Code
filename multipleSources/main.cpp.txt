@@ -1,0 +1,45 @@
+//**********************************************************************
+//					Program is written by Joshua Yang
+//					Student ID is 2355145
+//					Professor of course is...
+//					Date is...
+//					Assignment objective is...
+//
+//
+//
+//
+//
+//
+//**********************************************************************
+
+#include "head.h"
+#include "body.cpp"
+
+int main(int argc, char *argv[])
+{
+	//Data Declarations
+	
+	
+	cout << "Hello World!" << endl;
+
+
+
+	//Return data
+	return 0;
+}
+
+
+//References:
+//system("pause");
+
+//Algorithm Setup			|			Corresponding C++ Statements
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
