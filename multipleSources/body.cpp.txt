@@ -1,15 +1,4 @@
 
 
-//TRY TO KEEP INCLUDE LIBRARIES IN HEADER UNLESS NEED IT DIRECTLY FOR SPECIFIC CPP FILES
-//Library Directories
-#include<iostream>
-#include<string>
-#include<cmath>
-#include<cstdio>
-#include<iomanip>
-#include<ctime>
-#include<cctype>
-#include<cstdlib>
-
 //Use namespace in CPP instead of header
 using namespace std;
