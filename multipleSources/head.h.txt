@@ -1,0 +1,31 @@
+#ifndef HEAD_H
+#define HEAD_H
+
+
+//Library Directories
+#include<iostream>
+#include<string>
+#include<cmath>
+#include<cstdio>
+#include<iomanip>
+#include<ctime>
+#include<cctype>
+#include<cstdlib>
+
+
+//Function Declarations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#endif
