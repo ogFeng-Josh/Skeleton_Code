@@ -12,7 +12,7 @@
 #include<cctype>
 #include<cstdlib>
 
-
+//Declare global variables and functions in header
 //Function Declarations
 
 
