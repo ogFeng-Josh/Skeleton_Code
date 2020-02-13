@@ -14,8 +14,9 @@
 #include<cstdlib>
 
 //Declare global variables and functions in header
-//Function Declarations
 
+//Function Declarations
+void helloWorld();
 
 
 
