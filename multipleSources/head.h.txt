@@ -2,6 +2,7 @@
 #define HEAD_H
 
 //TRY TO KEEP INCLUDE LIBRARIES IN HEADER UNLESS NEED IT DIRECTLY FOR SPECIFIC CPP FILES
+//Include Guard is the main reason.
 //Library Directories
 #include<iostream>
 #include<string>
