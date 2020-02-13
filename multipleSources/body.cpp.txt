@@ -9,4 +9,5 @@
 #include<cctype>
 #include<cstdlib>
 
+//Use namespace in CPP instead of header
 using namespace std;
