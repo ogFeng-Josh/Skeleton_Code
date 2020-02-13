@@ -13,7 +13,7 @@
 //**********************************************************************
 
 #include "head.h"
-#include "body.cpp"
+//#include "body.cpp"
 
 int main(int argc, char *argv[])
 {
