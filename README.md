@@ -1,3 +1,6 @@
-# SkeletonCode Setup
-Setup for basic C++ compilers
-Written by Josh Y.
+# Skeleton-Code Setup for Compilers
+#Written by Josh Y.
+Includes . . .
+- C#
+- Unity C# 
+- C++
